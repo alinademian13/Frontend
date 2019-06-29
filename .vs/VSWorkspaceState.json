@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\login",
+    "\\src\\app\\components\\navbar",
+    "\\src\\app\\components\\register",
+    "\\src\\app\\guards",
+    "\\src\\app\\interceptors",
+    "\\src\\app\\modules",
+    "\\src\\app\\services",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\components\\register\\register.component.html",
+  "PreviewInSolutionExplorer": false
+}
